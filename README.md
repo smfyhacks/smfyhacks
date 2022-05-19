@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @smfyhacks
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning web app security
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @smfyhacks on Twitter
 
 <!---
